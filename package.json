@@ -1,0 +1,10 @@
+{
+  "name": "ts",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.1.6"
+  }
+}
